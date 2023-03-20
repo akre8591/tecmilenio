@@ -1,0 +1,88 @@
+{
+  "courses": [
+    {
+      "id": "1563",
+      "courseCode": "C133",
+      "title": "Financial Mathematics",
+      "language": "English"
+    },
+    {
+      "id": "1564",
+      "courseCode": "C134",
+      "title": "Web Development",
+      "language": "English"
+    },
+    {
+      "id": "1565",
+      "courseCode": "C135",
+      "title": "Introduction to Data Science",
+      "language": null
+    },
+    {
+      "id": "1566",
+      "courseCode": "C136",
+      "title": "Agile Methodologies",
+      "language": "English"
+    },
+    {
+      "id": "1567",
+      "courseCode": "C137",
+      "title": "How to be a Project Manager",
+      "language": "English"
+    },
+    {
+      "id": "1568",
+      "courseCode": "C138",
+      "title": "JavaScript Intermediate Level",
+      "language": "English"
+    },
+    {
+      "id": "1569",
+      "courseCode": "C139",
+      "title": "Advanced Statistics",
+      "language": null
+    },
+    {
+      "id": "1570",
+      "courseCode": "C140",
+      "title": "How to start a StartUp",
+      "language": "English"
+    },
+    {
+      "id": "1571",
+      "courseCode": "C141",
+      "title": "Introduction to CI/CD",
+      "language": "English"
+    },
+    {
+      "id": "1572",
+      "courseCode": "C142",
+      "title": "Introduction to Portuguese",
+      "language": "English"
+    },
+    {
+      "id": "1573",
+      "courseCode": "C143",
+      "title": "Advanced English",
+      "language": null
+    },
+    {
+      "id": "1574",
+      "courseCode": "C144",
+      "title": "History of Art",
+      "language": "English"
+    },
+    {
+      "id": "1575",
+      "courseCode": "C145",
+      "title": "Taxes and Contributions",
+      "language": null
+    },
+    {
+      "id": "1576",
+      "courseCode": "C146",
+      "title": "Negotiation Skills",
+      "language": "English"
+    }
+  ]
+}
